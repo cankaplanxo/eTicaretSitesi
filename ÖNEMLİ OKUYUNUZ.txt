@@ -1,0 +1,21 @@
+ticaret sql dosyasını php my admine ekleyin ve wamp serverdan php version wamp server SON SÜRÜMDÜR.
+
+Ayrıca sitenin örnek resimleri klasörde mevcuttur.
+
+Siteyi yaparken hazır template kullandım.Template üzerinde parçalamalar yapark PHP kodlarıyla siteyi tasarladım.
+
+
+**************************************
+
+
+
+
+Yaptığım sitede admin paneli mevcuttur.
+Admin girişi yapıldığında ürün ekleme silme güncelleme işlemleri yapılmaktadır
+
+
+Admin giriş: http://localhost/eticaret/yonet/login.php
+
+kullanıcı adı: can@admin.com
+şifre:123
+
